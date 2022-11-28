@@ -24,6 +24,7 @@ class SignUpForm(FlaskForm):
     # username = StringField(
     #     'username', validators=[DataRequired(), username_exists])
     # Removed email validator Email(),
+    
     email = StringField('email', 
                         validators=[DataRequired(message="Email is required"), 
                         user_exists])
