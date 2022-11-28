@@ -2,7 +2,7 @@
 
 ### Summary
 
-[Nah-sana](https://nah-sana.herokuapp.com/) is an online project management tool inspired by Asana that allows teams to effectively manage projects and tasks in one central location. 
+[Nah-sana](https://nah-sana.onrender.com/) is an online project management tool inspired by Asana that allows teams to effectively manage projects and tasks in one central location. 
 
 ### Project Wiki
 - [API Documentation](https://github.com/jrchew15/nah-sana/wiki/API-Documentation)
